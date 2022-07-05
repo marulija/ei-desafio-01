@@ -23,7 +23,7 @@ h1, h2, h3 {
     
 }
 
-h1, h2 {
+h1, h3 {
     font-family: 'MuseoModerno', cursive;
     font-weight: bold;
 }
@@ -32,11 +32,11 @@ h1 {
     font-size: 117px;
 }
 
-h2 {
+h3 {
     font-size: 48px;
 }
 
-h3 {
+h2 {
     font-family: 'Asap', sans-serif;
     font-size: 52px;
     font-weight: 400;   
